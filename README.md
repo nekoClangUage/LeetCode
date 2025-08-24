@@ -1,2 +1,2 @@
-# LeetCode_DB
-LeetCode Database Problems
+# LeetCode Problems
+LeetCode Exercises
