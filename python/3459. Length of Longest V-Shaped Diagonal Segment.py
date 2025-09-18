@@ -1,3 +1,6 @@
+# FAILURE! HARD TASK
+# Easy to understand, but hard for realization.
+
 def lenOfVDiagonal(self, grid: list[list[int]]) -> int:
     def max_in_list(array):
         max_val = 0
